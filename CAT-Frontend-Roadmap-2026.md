@@ -34,5 +34,3 @@ The curriculum is divided into 3 distinct phases.
 
 ### ✍️ Credits
 - **Abdelrahman Ataa** - *Frontend Head & Roadmap Architect*
-- **Ameen M** - *Vue.js Roadmap Contributor*
-- **Ihab Mahmoud** - *Original Content Contributor*

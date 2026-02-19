@@ -54,3 +54,7 @@
 2.  **Weather Dashboard** (API Integration)
 3.  **E-Commerce Catalog**
 4.  **Real-time Chat App**
+
+## ✍️ Credits
+
+- **Ameen Mohamed** - *Vue.js Roadmap Contributor*
